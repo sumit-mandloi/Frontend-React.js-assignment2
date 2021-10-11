@@ -1,3 +1,14 @@
+# This project is Based on frontend developer 
+technologies used:-react.js,npm,html,css,visual studio.
+In this project Create a form in React.js with an upload button Clicking on the upload button should upload an audio file.
+Upon successful upload it should redirect to a new route.
+The new page should play the uploaded audio in a waveform.
+You should be able to add notes to this waveform at any timestamp of the audio.
+In this project firsty i create a react app by command and after this start code in app.js in this file the whole scenario of code is defined write a code for upload button and use many style by styled component and after upload the audio file the waveform shown in this project in the waveform page there is a play and stop button used.
+for that many npm tools installed 
+like styled,html,javascript,server etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
