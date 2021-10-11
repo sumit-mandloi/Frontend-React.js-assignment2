@@ -6,7 +6,18 @@ The new page should play the uploaded audio in a waveform.
 You should be able to add notes to this waveform at any timestamp of the audio.
 In this project firsty i create a react app by command and after this start code in app.js in this file the whole scenario of code is defined write a code for upload button and use many style by styled component and after upload the audio file the waveform shown in this project in the waveform page there is a play and stop button used.
 for that many npm tools installed 
-like styled,html,javascript,server etc.
+like styled,html,javascript,server,wavesurfer.js,prop
+steps:
+1.first start visual studio code
+2.install npm 
+3.create an react app by using "npx create-react-app app-name" command
+4.after this create app.js file for creating a form
+5.import files in app.js file from other files
+6.create different files in src folder like waveform.styled in this file style of upload button and the container and wave done.
+7.create index.html for running all the files
+8.app.css for creating the css styles in the project.
+9.after all file created, run the project on server by npm start command then this project shown required output.
+10.the audio file uploaded in mp3 formate and go to waveform page the wave are going up and down with respect to audio.
 
 
 # Getting Started with Create React App
